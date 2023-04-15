@@ -10,7 +10,6 @@ I am currently studing Software engineering technology at Centennial College.
 
                          
 
-      ✨Find what you love and 
-                        let it kill you !✨
-                       -Charles Bukowski
+      ✨Find what you love and let it kill you !✨
+                                    -Charles Bukowski
                  
