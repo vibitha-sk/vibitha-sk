@@ -1,16 +1,8 @@
 # Hello World ! 👋
-I am Vibitha🌸🦋
 
+I am Vibitha🌸🦋
 
 I am currently studing Software engineering technology at Centennial College.
 
-
-
-
-
-                         
-
-    ✨Find what you love and let it kill you !✨
-                                    -Charles Bukowski
-                 
-
+> ✨ Find what you love and let it kill you ! ✨  
+>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles Bukowski
