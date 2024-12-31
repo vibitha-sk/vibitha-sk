@@ -1,8 +1,5 @@
-<p class="hi"># Hello World ! 👋</p>
+# Hello World ! 👋
 
-.hi{
-color:red;
-}
 
 I am Vibitha🌸🦋
 
