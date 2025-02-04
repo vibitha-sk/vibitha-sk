@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vibi07@my.yorku.ca**
 
-- ⚡ Fun fact **Lost in a world that does not exist.**
+- ⚡ Fun fact **either yappping or napping!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
