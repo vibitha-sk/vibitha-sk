@@ -1,17 +1,35 @@
-<h1 align="center">Hello World!👋, I'm Vibitha</h1>
-<h3 align="center">A second year CS undergrad student</h3>
+# 👋 Hey, I'm Vibitha!
+
+### 🚀 About Me
+- 🎓 CS undergrad student at York University   
+- 🛠️ Exploring software engineering, cybersecurity, and frontend development  
+- 💡 Interested in Network Security and Cryptography 
 
 
-- 📫 How to reach me **vibi07@my.yorku.ca**
+### 💻 Skills
+- 🔥 Python, HTML, CSS ,Java, SPL
+- 🎯 Agile methodologies(Scrum) , SIEM
+- 📊 Data and Log monitoring
 
-- ⚡ Fun fact **either yappping or napping!**
+### ⚙️ Frameworks & Tools
+- 🛠️ **Tools**: Git, Splunk  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vibitha sureshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibitha sureshkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vibitha sureshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibitha sureshkumar" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Zbbpf4AC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Zbbpf4AC" height="30" width="40" /></a>
-</p>
+### 🌱 Currently Learning
+- 🌐  Cryptography
+  
+### 🧑‍💻 Project: Intrusion Detection Systems (IDS)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **[IDS with Splunk](#)**  
+  I am currently working on a real-time Intrusion Detection System using splunk to detect network intrusion. The project will involve analyzing system logs to identify potential threats and malicious activity and trigger alert.
+  
+  *🛠️ Technologies used*:  Splunk, Linux
+  
+### 🤝 Reach me out!
+- 📫 Email: [vibithasureshkumar@gmail.com](mailto:vibithasureshkumar@gmail.com)  
+- 💼 LinkedIn: [vibitha-sk](https://www.linkedin.com/in/vibitha-sk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTTGn5AXSjCDlHBa0fh1yw%3D%3D)  
+- 🌐 Portfolio: [my-personal-portfolio](https://vibitha-sk.github.io/Personal-portfolio-web/)  
+
+### 🎯 Fun Facts
+- 💤 I love to sleep and yap!  
+- 📌 I could live on Pinterest forever!  
+- 🧀 Recently did a biology experiment on cheese-making!  
