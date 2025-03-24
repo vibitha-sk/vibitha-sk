@@ -1,9 +1,6 @@
 <h1 align="center">Hello World!👋, I'm Vibitha</h1>
 <h3 align="center">A second year CS undergrad student</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Agile methodologies and Scrum practices.**
 
 - 📫 How to reach me **vibi07@my.yorku.ca**
 
