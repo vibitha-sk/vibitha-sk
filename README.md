@@ -5,7 +5,7 @@
 - 🚀 Exploring software engineering, cybersecurity, and frontend development  
 - 🚀 Seeking internships & co-op opportunities  
 - ✨ Interested in Network Security and Cryptography  
-- 📩 Open to connections and collaborations—feel free to reach out!
+- 📩 Open to connections and collaborations—feel free to reach me out!
 
 
 ##  Skills
