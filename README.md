@@ -10,7 +10,8 @@
 #### *Languages*: 
     Python, HTML, CSS ,Java, SPL
 #### *Concepts*:
-    Agile methodologies(Scrum) , SIEM
+    Agile methodologies(Scrum)
+    SIEM
     Log monitoring
 #### *Frameworks & Tools*:
      Git, Splunk  
