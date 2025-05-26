@@ -15,6 +15,7 @@
     Agile methodologies(Scrum)
     SIEM
     Log monitoring
+    Encryption and Decryption
 #### *Frameworks & Tools*:
      Git, Splunk  
   
