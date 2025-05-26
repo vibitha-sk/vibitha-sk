@@ -2,8 +2,10 @@
 
 ###  About Me
 -  CS undergrad student at York University   
--  Exploring software engineering, cybersecurity, and frontend development  
--  Interested in Network Security and Cryptography 
+-  Exploring software engineering, cybersecurity, and frontend development
+-   Seeking internships & co-op opportunities  
+-  Interested in Network Security and Cryptography
+-  Open to connections and collaborations—feel free to reach me out!
 
 
 ##  Skills
