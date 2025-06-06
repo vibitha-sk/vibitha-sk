@@ -21,7 +21,7 @@
   
   
 ###  Reach me out!
--  📩 [vibithasureshkumar@gmail.com](mailto:vibithasureshkumar@gmail.com)  
+-  📩 [vibithasureshkumar@gmail.com](mailto:vibi07@my.yorku.ca)  
 -  💬 [vibitha-sk](https://www.linkedin.com/in/vibitha-sk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTTGn5AXSjCDlHBa0fh1yw%3D%3D)  
 - 🔗 [my-personal-portfolio](https://vibitha-sk.github.io/Personal-portfolio-web/)  
 
