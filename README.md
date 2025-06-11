@@ -17,13 +17,14 @@
     Log monitoring
     Encryption and Decryption
 #### *Frameworks & Tools*:
-     Git, Splunk  
+     Git, Splunk, Regex
   
   
 ###  Reach me out!
--  📩 [vibithasureshkumar@gmail.com](mailto:vibi07@my.yorku.ca)  
--  💬 [vibitha-sk](https://www.linkedin.com/in/vibitha-sk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcTTGn5AXSjCDlHBa0fh1yw%3D%3D)  
-- 🔗 [my-personal-portfolio](https://vibitha-sk.github.io/Personal-portfolio-web/)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibitha-sk)
+ [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vibi07@my.yorku.ca)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white)](https://vibitha-sk.github.io/Personal-portfolio-web/)
+
 
 ###  Fun Facts
 -  I love to sleep and yap!  
