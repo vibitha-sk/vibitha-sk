@@ -8,16 +8,27 @@
 - 📩 Open to connections and collaborations—feel free to reach me out!
 
 
-##  Skills
-#### *Languages*: 
-    Python, HTML, CSS ,Java, SPL
-#### *Concepts*:
-    Agile methodologies(Scrum)
-    SIEM
-    Log monitoring
-    Encryption and Decryption
-#### *Frameworks & Tools*:
-     Git, Splunk, Regex
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-black?style=flat&logo=splunk&logoColor=white)
+
+
+### Concepts
+- Agile Methodologies (Scrum)
+- SIEM 
+- Log Monitoring
+- Encryption & Decryption
+
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-00BA8B?style=flat&logo=splunk&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-%2300BCD4?style=flat&logo=read-the-docs&logoColor=white)
+
+
   
   
 ###  Reach me out!
@@ -28,5 +39,16 @@
 
 ###  Fun Facts
 -  I love to sleep and yap!  
--  I could live on Pinterest forever!  
--  Recently did a biology experiment on cheese-making!  
+-  I could live on Pinterest forever!
+
+
+<p align="center">
+  <strong>💡 Think before you 'click'. </strong>
+</p>
+
+<p align="center">
+  <em>— A gentle reminder</em>
+</p>
+
+
+
