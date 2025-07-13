@@ -2,7 +2,7 @@
 
 ###  About Me
 - 🎓 CS undergrad student at York University  
-- 🚀 Exploring security and technology — from cybersecurity and networking to information security and web development.
+- 🚀 Exploring security and technology — from cybersecurity and networking to software development and web development
 - 🚀 Seeking internships & co-op opportunities  
 - ✨ Interested in Network Security and Cryptography  
 - 📩 Open to connections and collaborations—feel free to reach me out!
