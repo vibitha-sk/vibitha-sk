@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <strong>💡 Think before you 'click'. </strong>
+  <strong>one step at a time - you wil get there! </strong>
 </p>
 
 <p align="center">
