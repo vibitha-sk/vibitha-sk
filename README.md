@@ -2,7 +2,7 @@
 
 ###  About Me
 - 🎓 CS undergrad student at York University  
-- 🚀 On a journey through frontend development and software development — learning, building, and growing along the way.
+- 🚀 On a journey through frontend and software development — learning, building, and growing along the way.
 - 🚀 Seeking internships & co-op opportunities    
 - 📩 Open to connections and collaborations—feel free to reach me out!
 
