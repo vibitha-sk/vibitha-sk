@@ -16,7 +16,7 @@
 
 ### Concepts
 - Agile Methodologies (Scrum)
-- Version Control
+- Version Control(Git)
 
 
 ### Tools & Frameworks
