@@ -29,8 +29,6 @@
 ###  Reach me out!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibitha-sk)
  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:vibi07@my.yorku.ca)
- [![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white)](https://vibitha-sk.github.io/Personal-portfolio-web/)
-
 
 ###  Fun Facts
 -  I love to sleep and yap!  
