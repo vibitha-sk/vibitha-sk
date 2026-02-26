@@ -67,7 +67,7 @@
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/VibithaSureshkumar-2707/BF8D351CE27FA561?sharingId=8FB3C1AE2D847BEE" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900" />
       </a>
-      <br/><a href="YOUR_CERTIFICATION_LINK" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
+      <br/><a href="https://learn.microsoft.com/api/credentials/share/en-us/VibithaSureshkumar-2707/BF8D351CE27FA561?sharingId=8FB3C1AE2D847BEE" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
     </td>
   </tr>
 </table>
