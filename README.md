@@ -94,6 +94,9 @@
 
 😴 I love to sleep and yap!
 <br>📌 I could live on Pinterest forever!
+<br>☕ Buy me a coffee to connect… or just bring chocolate cake!
+
+
 
 <p align="center">
   <strong>"one step at a time — you will get there!"</strong><br>
