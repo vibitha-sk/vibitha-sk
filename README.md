@@ -72,6 +72,15 @@
         <b>AZ-900</b>
       </a>
     </td>
+    <td align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VibithaSureshkumar-2707/F2BB91F1ED8A6BB4?sharingId=8FB3C1AE2D847BEE">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" height="90" alt="AZ-104" />
+  </a>
+  <br/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VibithaSureshkumar-2707/F2BB91F1ED8A6BB4?sharingId=8FB3C1AE2D847BEE">
+    <b>AZ-104</b>
+  </a>
+</td>
   </tr>
 </table>
 
