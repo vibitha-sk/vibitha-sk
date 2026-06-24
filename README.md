@@ -103,7 +103,8 @@
 
 ## ⚡ Fun Facts
 
-😴 I love to sleep and yap!
+😴 I love to sleep!
+<br>🌀 Professional overthinker!
 <br>📌 I could live on Pinterest forever!
 <br>☕ Buy me a coffee to connect… or just bring chocolate cake!
 
