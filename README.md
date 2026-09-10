@@ -7,7 +7,7 @@
 ## 🙋‍♀️ About Me
 
 🎓 CS undergrad at **York University**
-<br> ☁️ Passionate about **Cloud Infrastructure**, **DevOps**, and **Software Development**
+<br> ☁️ Passionate about **Cloud Computing & Infrastructure**, **DevOps**, and **Software Development**
 <br> 🛠️ Building skills one pipeline, one deployment, one commit at a time
 <br> 🚀 Actively seeking **internships & co-op opportunities** in Cloud / DevOps / Software Engineering
 <br> 📩 Open to connections and collaborations — feel free to reach out!
