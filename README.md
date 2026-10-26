@@ -108,7 +108,7 @@
 😴 I love to sleep!
 <br>🌀 Professional overthinker!
 <br>📌 I could live on Pinterest forever!
-<br>☕ Buy me a coffee to connect… or just bring chocolate cake!
+<br>☕ Let's connect over coffee, or better yet, a slice of chocolate cake!
 
 
 
