@@ -100,16 +100,21 @@
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibitha-sk)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vibithasureshkumar@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B07A4F&center=true&vCenter=true&width=650&lines=%E2%98%95+Let%27s+connect+over+coffee!;%F0%9F%8D%B0+or+better+yet%2C+a+slice+of+chocolate+cake!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vibitha-sk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vibithasureshkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 
 ## ⚡ Fun Facts
 
 😴 I love to sleep!
 <br>🌀 Professional overthinker!
 <br>📌 I could live on Pinterest forever!
-<br>☕ Let's connect over coffee, or better yet, a slice of chocolate cake!
-
 
 
 <p align="center">
